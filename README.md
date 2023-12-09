@@ -9,6 +9,7 @@ This project created using:
 - React Query
 
 \*note: For the other answers are available at folder `"Folder Jawaban Lain"`
+\*note: User commited the repository is bugged because of git-scm, there's still no clue how to fix it.
 
 ![img](public/Task.png)
 
